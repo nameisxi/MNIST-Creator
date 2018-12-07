@@ -1,2 +1,2 @@
 # MNIST-Creator
-Turns given images into 28x28 dataset
+Turns given image into 28x28 MNIST type image.
